@@ -23,7 +23,6 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone [(https://github.com/aiyufan3/vite-project.git)]
-cd [vite-project]
 npm install
 ```
 
