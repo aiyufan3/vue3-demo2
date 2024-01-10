@@ -21,18 +21,18 @@ This project is a base web application built using Vue 3, TypeScript, and Vite, 
 ## Installation
 Clone the repository and install dependencies:
 
-\`\`\`bash
+```bash
 git clone [(https://github.com/aiyufan3/vite-project.git)]
 cd [vite-project]
 npm install
-\`\`\`
+```
 
 ## Running the Application
 Run the application locally using Vite:
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 
 ## Contributing
